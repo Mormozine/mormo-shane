@@ -10,7 +10,7 @@ disableKinds = ["taxonomy", "term"]
 
 [author]
   name = "Mormo Zine"
-  headline = "Make Money Online With Mormo - Everything free or one dollar!"
+  headline = "Make Money Online With Mormo - Everything Free Or One Dollar!"
   image = "img/shane.jpg"  # path relative to static directory
 
   links = [
