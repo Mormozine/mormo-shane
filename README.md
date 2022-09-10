@@ -1,3 +1,1 @@
-# LinkTree Alternative
-https://linktree-alternative.netlify.app lives here...
-
+# Horrorcrash.com lives here
