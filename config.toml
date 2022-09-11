@@ -15,14 +15,12 @@ disableKinds = ["taxonomy", "term"]
 
   links = [
     { link = { href = "https://youtu.be/H2UBS39RMhg", text = "Please Watch This Video FIRST!" } },
-    { link = { href = "https://mormozine.gumroad.com/l/oBthb", text = "I create video content and want to make money" } },
-    { link = { href = "https://mormozine.gumroad.com/l/DzFIy", text = "I'm a writer and want to make money" } },
-    { link = { href = "https://mormozine.gumroad.com/l/zpZZL", text = "I want to be a horror influencer and make money" } },
-    { link = { href = "https://trafficendgame.com/mormo", text = "I want to get more traffic" } },
-    { link = { href = "https://lazycommissions.com/mormo", text = "I want to make money doing affiliate marketing" } },
-    { link = { href = "https://mormo.substack.com", text = "I want a glossy autographed photo of Mormo" } },
-    { link = { href = "https://bit.ly/MormoFree", text = "Check Out List Building Maniac" } },
-
+    { link = { href = "https://mormozine.gumroad.com/l/oBthb", text = "I create video content and want to make money [1$]" } },
+    { link = { href = "https://mormozine.gumroad.com/l/DzFIy", text = "I'm a writer and want to make money [1$]" } },
+    { link = { href = "https://mormozine.gumroad.com/l/zpZZL", text = "I want to be a horror influencer and make money [1$]" } },
+    { link = { href = "https://trafficendgame.com/mormo", text = "I want to get more traffic. [FREE]" } },
+    { link = { href = "https://lazycommissions.com/mormo", text = "I want to make money doing affiliate marketing [FREE]" } },
+    { link = { href = "https://mormo.substack.com", text = "I want a glossy autographed photo of Mormo [FREE]" } },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
     # { codepen = "https://codepen.io/username" },
