@@ -14,7 +14,7 @@ disableKinds = ["taxonomy", "term"]
   image = "img/shane.jpg"  # path relative to static directory
 
   links = [
-    { youtube = { href = "https://youtu.be/H2UBS39RMhg", text = "Please Watch This Video FIRST!" } },
+   # { youtube = { href = "https://youtu.be/H2UBS39RMhg", text = "Please Watch This Video FIRST!" } },
     { link = { href = "https://mormozine.gumroad.com/l/oBthb", text = "I create video content and want to make money [1$]" } },
     { link = { href = "https://mormozine.gumroad.com/l/DzFIy", text = "I'm a writer and want to make money [1$]" } },
     { link = { href = "https://mormozine.gumroad.com/l/zpZZL", text = "I want to be a horror influencer and make money [1$]" } },
